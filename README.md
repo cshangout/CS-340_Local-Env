@@ -20,7 +20,7 @@ As with all courses that utilize Apporto at SNHU, make sure your local files wor
 
 ### Python
   - The class uses version 3.6.9, but for this guide/repo, I used 3.6.5.
-  - [Python 3.6.5 downloads.](https://docs.docker.com/desktop/install/windows-install/)
+  - [Python 3.6.5 downloads.](https://www.python.org/downloads/release/python-365/)
   
 
 ### VS Code Extensions
