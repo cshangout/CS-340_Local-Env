@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+   mongo:
+      container_name: CS340-MongoDB
+      image: mongo:4.2.6
+      ports:
+       - "27017:27017"
+      volumes:
+       - ./db/:/data/db
+      #command: [--auth]
+      restart: always
