@@ -1,3 +1,4 @@
+# [Video Walkthrough](https://youtu.be/FhgjXsC0jbY)
 # Intent
 I noticed that a lot of students have the same complaint that I did when taking CS-340. Apporto and Jupyter Notebooks are both a hassle to use. For one, Apporto has many issues ranging from slow/laggy connection to getting kicked off the instance before you can save your work. Jupyter Notebooks poses an issue in the fact that the version installed on the Apporto instance doesn't have useful IDE features such as error checking and code completion. A third problem arises when students try to install MongoDB locally. It's certainly doable, but I've seen complaints in multiple student run Discord servers that the process is almost not worth it. 
 
